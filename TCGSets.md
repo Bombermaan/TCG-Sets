@@ -6,3 +6,4 @@
 6. VMAX Climax
 7. Evolutions
 8. Battle Styles
+8. Vivid Voltage
