@@ -4,3 +4,4 @@
 4. Celebrations
 5. Sword & Shield Base Set
 6. VMAX Climax
+7. Evolutions
