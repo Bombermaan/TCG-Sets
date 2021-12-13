@@ -5,3 +5,4 @@
 5. Sword & Shield Base Set
 6. VMAX Climax
 7. Evolutions
+8. Battle Styles
